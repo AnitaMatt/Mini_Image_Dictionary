@@ -3,7 +3,7 @@ body{
 
 }
 .my_orange{
-    height: 500px;
+    min-height: 500px;
     border: 10px solid rgb(205, 55, 50);
     background-color: black;
     color: white;
